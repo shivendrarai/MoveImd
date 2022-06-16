@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MoveImd/static/css/main.58e1373c.css",
+    "main.js": "/MoveImd/static/js/main.81284dcb.js",
+    "index.html": "/MoveImd/index.html",
+    "static/media/search.svg": "/MoveImd/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.58e1373c.css.map": "/MoveImd/static/css/main.58e1373c.css.map",
+    "main.81284dcb.js.map": "/MoveImd/static/js/main.81284dcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58e1373c.css",
+    "static/js/main.81284dcb.js"
+  ]
+}
